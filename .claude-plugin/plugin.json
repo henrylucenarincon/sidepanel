@@ -1,0 +1,20 @@
+{
+  "name": "sidepanel",
+  "version": "0.1.0",
+  "description": "A live side panel for Claude Code: the files and commands Claude is touching, your repo and branch, context and usage limits, and disk, RAM and CPU.",
+  "author": { "name": "Henry Lucena", "url": "https://github.com/henrylucenarincon" },
+  "homepage": "https://github.com/henrylucenarincon/sidepanel",
+  "repository": "https://github.com/henrylucenarincon/sidepanel",
+  "license": "MIT",
+  "keywords": ["panel", "sidebar", "dashboard", "status", "git", "system-monitor"],
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "language": {
+      "type": "string",
+      "title": "Language",
+      "description": "Panel language: en (English) or es (Español)",
+      "default": "en",
+      "options": ["en", "es"]
+    }
+  }
+}

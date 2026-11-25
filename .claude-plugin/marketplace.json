@@ -1,0 +1,15 @@
+{
+  "name": "sidepanel",
+  "description": "sidepanel, a live side panel for Claude Code",
+  "owner": {
+    "name": "Henry Lucena",
+    "url": "https://github.com/henrylucenarincon"
+  },
+  "plugins": [
+    {
+      "name": "sidepanel",
+      "source": "./",
+      "description": "A live side panel for Claude Code: files and commands in use, repo and branch, context and usage limits, disk, RAM and CPU."
+    }
+  ]
+}
