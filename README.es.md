@@ -61,7 +61,8 @@ marketplace** con `henrylucenarincon/sidepanel` y **Add plugin**.
 
 ## Para pasarlo a español
 
-En `/config`, poné la opción `language` de sidepanel en `es`. También se puede elegir al instalarlo.
+Viene en inglés. Para pasarlo a español, corré `/plugin configure sidepanel@sidepanel` en Claude Code y
+poné `language` en `es`, o instalalo desde la terminal con `--config language=es`.
 
 ## Uso
 

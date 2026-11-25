@@ -75,7 +75,8 @@ columns), open it with `/sidepanel`.
 | ---------- | ------------ | ------- |
 | `language` | `en` or `es` | `en`    |
 
-Choose it when you install, or later in `/config`.
+It is English unless you change it. To switch to Spanish, run `/plugin configure sidepanel@sidepanel`
+in Claude Code, or install from a shell with `--config language=es`.
 
 ## What it runs on your machine
 
